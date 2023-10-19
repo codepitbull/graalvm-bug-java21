@@ -17,7 +17,7 @@ Substrate VM GraalVM CE 21+35.1 (build 21+35, serial gc)
 Building without native:
 
 ```
-./gradlew :app:nativeBuild
+./gradlew :app:build
 ```
 
 Run it:
