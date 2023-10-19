@@ -1,9 +1,0 @@
-Static libraries:
-   ../../../.sdkman/candidates/java/21-graalce/lib/svm/clibraries/darwin-aarch64/liblibchelper.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/static/darwin-aarch64/libnet.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/svm/clibraries/darwin-aarch64/libdarwin.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/static/darwin-aarch64/libnio.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/static/darwin-aarch64/libjava.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/static/darwin-aarch64/libzip.a
-   ../../../.sdkman/candidates/java/21-graalce/lib/svm/clibraries/darwin-aarch64/libjvm.a
-Other libraries: dl,pthread,-framework Foundation,z
